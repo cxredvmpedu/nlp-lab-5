@@ -1,0 +1,7 @@
+platform,category,url
+DOM.RIA,3-кімнатні квартири,https://dom.ria.com/uk/prodazha-kvartir/kiev-3k/
+OLX,3-кімнатні квартири,https://www.olx.ua/uk/nedvizhimost/kvartiry/prodazha-kvartir/kiev/?search[filter_enum_number_of_rooms_string][0]=trehkomnatnye
+DOM.RIA,Будинки,https://dom.ria.com/uk/prodazha-domov/kiev/
+OLX,Будинки,https://www.olx.ua/uk/nedvizhimost/doma/prodazha-domov/kiev/?search[filter_enum_property_type_houses][0]=house
+DOM.RIA,Дуплекси,https://dom.ria.com/uk/prodazha-domov/kiev-duplex/
+OLX,Дуплекси,https://olx.ua/uk/nedvizhimost/doma/prodazha-domov/dupleks/kiev/
